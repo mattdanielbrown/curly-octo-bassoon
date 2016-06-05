@@ -1,4 +1,4 @@
-# curly-octo-bassoon
+#Curly Octo Bassoon
 ## First Repository
 This is the first repository for this particular Github account.
 ****
@@ -30,19 +30,12 @@ Donec pretium est sit amet ipsum fringilla feugiat
 Aliquam erat volutpat
 
 Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi
-
 Cras laoreet ultrices ligula eget tempus
-
 Aenean metus purus, iaculis ut imperdiet eget, sodales et massa
-
 Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat
-
 Maecenas accumsan interdum sodales
-
 In hac habitasse platea dictumst
-
 Pellentesque ornare blandit orci, eget tristique risus convallis ut
-
 Vivamus a sapien neque
 
 ##Lorem Ipsum Dolor Sit Amet Cons
@@ -50,4 +43,13 @@ Vivamus a sapien neque
 Nam quis sem orci
 
 Phasellus ligula tellus, lobortis nec accumsan eget, mattis at erat
+
+* Lorem ipsum dolor
+* Sit amet, consectetur
+* Adipisicing elit, sed
+* Do eiusmod tempor
+* Incididunt ut labore
+* Et dolore magna
+* Aliqua. Ut enim
+* Ad minim veniam,
 
