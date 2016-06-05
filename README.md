@@ -16,19 +16,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Donec elementum ligula eu sapien consequat eleifend
 
 Donec nec dolor erat, condimentum sagittis sem
-
 Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et
-
 Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue
-
 Integer quam nunc, consequat nec egestas ac, volutpat ac nisi
-
 Sed consectetur dignissim dignissim
-
 Donec pretium est sit amet ipsum fringilla feugiat
-
 Aliquam erat volutpat
-
 Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi
 Cras laoreet ultrices ligula eget tempus
 Aenean metus purus, iaculis ut imperdiet eget, sodales et massa
