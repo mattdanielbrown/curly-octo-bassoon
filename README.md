@@ -1,9 +1,9 @@
 #Curly Octo Bassoon
 ## First Repository
-This is the first repository for this particular Github account.
+    This is the first repository for this particular Github account.
 ****
 
-#Lorem Ipsum Dolor Sit Amet Consectetur Adipisi
+##Lorem Ipsum Dolor Sit Amet Consectetur Adipisi
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
